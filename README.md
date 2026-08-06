@@ -2,7 +2,7 @@
 
 The poster below summarizes the complete workflow, including data preparation, exploratory analysis, statistical visualizations, feature importance analysis, and the project's primary findings.
 
-![Project Poster](screenshots/ccfraud-poster.JPG)
+![Project Poster](ccfraud-poster.JPG)
 
 ---
 
